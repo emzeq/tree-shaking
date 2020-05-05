@@ -1,2 +1,2 @@
-export * from "./unused";
-export * from "./used";
+export { friendlyToday } from "./unused";
+export { thisIsUsed } from "./used";
